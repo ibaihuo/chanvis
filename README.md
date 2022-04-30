@@ -4,7 +4,7 @@
 参考文章：文章连接
 在线体验：http://162.14.82.169:8134/
 
-https://github.com/ibaihuo/chanvis/blob/main/pics/sz000001.jpg
+![效果图](pics/sz000001.jpg)
 
 ## 架构体系
 1. 使用TradingView的本地SDK做可视化，支持本地或者云平台部署。
@@ -75,4 +75,5 @@ demo的数据的准确性，各位也不要太在意，这块是我目前还需�
 欢迎对缠论量化有兴趣的伙伴，一起讨论，去实现那完美的几何结构！尤其欢迎一起讨论和共同学习【摩尔缠论】。
 
 加好友请备注：自然之缠 （否则不予通过）。
-https://github.com/ibaihuo/chanvis/blob/main/pics/quantchan.jpg
+
+![微信号](pics/quantchan.jpg)
