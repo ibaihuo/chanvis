@@ -1,7 +1,7 @@
 
 基于TradingView本地SDK的可视化前后端代码，适用于缠论量化研究，和其他的基于几何交易的量化研究。
 
-参考文章：<https://mp.weixin.qq.com/s/5NxteND3hS5qcH2Jkuy2eQ>正式开源！适用于缠论量化研究，基于TradingView本地SDK的可视化前后端代码
+参考文章：[正式开源！适用于缠论量化研究，基于TradingView本地SDK的可视化前后端代码](https://mp.weixin.qq.com/s/5NxteND3hS5qcH2Jkuy2eQ)
 
 在线体验：http://162.14.82.169:8134/
 
