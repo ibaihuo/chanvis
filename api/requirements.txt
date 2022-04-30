@@ -1,0 +1,7 @@
+flask
+flask_cors
+arrow
+pymongo
+pandas
+# mplfinance
+# pyecharts
