@@ -44,17 +44,17 @@ for symbol in ALL_SYMBOLS:
 """
 
 
-stock_info = list(STOCK_DB['stock_info'].find({},
-                                              {'_id': False, 'code': True, 'name': True, 'pinyin': True})
+stock_info = list(STOCK_DB['stock_names'].find({},
+                                              {'_id': False, 'code': True, 'display_name': True, 'name': True})
                   )
 # print(stock_info)
 
 
 for item in stock_info:
-    code, name, pinyin = item['code'], item['name'], item['pinyin']
-    stk_info = {"name": pinyin,
+    code, display_name, name = item['code'], item['display_name'], item['name']
+    stk_info = {"name": name,
                 "symbol": code,
-                "description": f'{name}[{code}]',
+                "description": f'{display_name}[{code}]',
                 "exchange": "自然之缠",
                 "minmov": 1,
                 "minmov2": 0,
