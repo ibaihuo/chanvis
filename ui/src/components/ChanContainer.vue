@@ -20,7 +20,7 @@ export default {
   name: 'ChanContainer',
   props: {
     symbol: {
-      default: 'ETH',
+      default: '000001.XSHG',
       type: String,
     },
     interval: {
