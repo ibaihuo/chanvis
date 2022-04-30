@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"ca9a0d9113904a7994b4e2f8ba6f8c78","collectionName":"replay_config","type":"collection"}

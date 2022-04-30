@@ -1,0 +1,9 @@
+.DS_Store
+__python__
+build/
+dist/
+node_modules/
+public/charting_library/
+public/datafeeds/
+src/charting_library.min.js
+static/
