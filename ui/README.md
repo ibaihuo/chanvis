@@ -30,3 +30,9 @@ yarn serve
 ## 3. 访问web地址
 
 http://127.0.0.1:8080/
+
+
+## 4. TradingView备注
+
+1. 需要自己申请官方的SDK（或者其他途径），我的即是版本基于charting_library-master-v17.025版本。
+2. Tradingview的中文文档，国内高手翻译的哈：https://aitrade.ga/books/tradingview/
