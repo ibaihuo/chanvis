@@ -77,6 +77,8 @@ def get_all_history():
             # 数据量太少，直接略过
             continue
 
+        end_dt = '2022-04-30'
+
         i += 1
         get_day_hist(code, tf='1d', start_date=start_dt, end_date=end_dt)
 

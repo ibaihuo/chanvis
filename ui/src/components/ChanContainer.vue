@@ -120,7 +120,7 @@ export default {
         }
       },
       // 初始的获取数据窗口大小，获取最近的50个月的数据
-      timeframe: '50M',
+      timeframe: '250M',
 
       favorites: {
         intervals: ["1", "5", "30", "240", "D", "W"],
@@ -2333,7 +2333,7 @@ export default {
 
                 let start = bi_list[i]['dt'];
                 let start_type = bi_list[i]['vtype']
-                // let start_status = bi_list[i]['is_'];
+                let start_status = bi_list[i]['is_valid_czxd'];
 
                 j = i+1
 
