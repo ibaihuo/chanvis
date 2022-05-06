@@ -2,7 +2,7 @@
 
 ## 1. 准备TradingView的sdk
 1. 从 https://github.com/tradingview/charting_library/ 获取SDK，解压后复制`charting_library` 到`/public`目录。
-1. 复制`charting_library.min.js` 到 `/src`目录。
+1. 复制`charting_library.js` 到 `/src`目录。
 1. 复制`datafeeds` 目录到 `/public` 目录。
 
 ## 2. nodejs的包安装
