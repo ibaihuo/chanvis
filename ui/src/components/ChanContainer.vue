@@ -4,7 +4,7 @@
 
 <script>
  
-import { widget } from '../charting_library';
+import { widget } from '../../public/charting_library';
 
 const axios = require('axios');
 
@@ -21,6 +21,7 @@ export default {
   props: {
     symbol: {
       default: '000001.XSHG',
+      // default: 'BTC',
       type: String,
     },
     interval: {
@@ -43,7 +44,6 @@ export default {
     },
     chartsStorageUrl: {
       // 后面不要带符号【/】
-      // default: 'http://23.254.226.248:8134/slb',
       default: 'http://127.0.0.1:8000',
       type: String,
     },
@@ -1991,10 +1991,11 @@ export default {
                 // 表示中枢线的位置和方向
                 if(direction =='down'){
                     tvWidget.chart(0).createShape(
-                        {time: Date.parse(start)/1000, price: high * 1.002}, 
+                        {time: Date.parse(start)/1000, price: zs_line * 1.002},
+                        // {time: Date.parse(start)/1000, price: high},
                             {
                             shape: 'icon',
-                            lock: true,
+                            // lock: true,
                             disableSelection: true,
                             overrides: {
                                 'color': color,
@@ -2009,7 +2010,7 @@ export default {
                           {time: Date.parse(heiK)/1000, channel: 'high'},
                               {
                               shape: 'icon',
-                              lock: true,
+                              // lock: true, 锁定后，无法通过界面的按钮删除
                               disableSelection: true,
                               overrides: {
                                   'color': '#696969',
@@ -2021,10 +2022,11 @@ export default {
                     }
                 }else if(direction =='up'){
                   tvWidget.chart(0).createShape(
-                        {time: Date.parse(start)/1000, price: low * 0.998}, 
+                        {time: Date.parse(start)/1000, price: zs_line * 0.998}, 
+                        // {time: Date.parse(start)/1000, price: low}, 
                             {
                             shape: 'icon',
-                            lock: true,
+                            // lock: true,
                             disableSelection: true,
                             overrides: {
                                 'color': color,
@@ -2039,7 +2041,7 @@ export default {
                           {time: Date.parse(heiK)/1000, channel: 'low'},
                               {
                               shape: 'icon',
-                              lock: true,
+                              // lock: true,锁定后，无法通过界面的按钮删除
                               disableSelection: true,
                               overrides: {
                                   'color': '#696969',
@@ -2051,23 +2053,23 @@ export default {
                     }        
                 }
 
-                tvWidget.chart(0).createMultipointShape(
-                [{time: Date.parse(start)/1000, price: zs_line},
-                {time: Date.parse(end)/1000, price: zs_line},],
-                {
-                    shape: 'trend_line',
-                    // lock: true,
-                    // disableSelection: true,
-                    // disableSave: true,
-                    // disableUndo: true,
-                    zOrder: 'top',
-                    overrides: {
-                        'linestyle': linestyle,
-                        'linewidth': 2,
-                        'linecolor': color,
-                    }
-                }
-                );
+                // tvWidget.chart(0).createMultipointShape(
+                // [{time: Date.parse(start)/1000, price: zs_line},
+                // {time: Date.parse(end)/1000, price: zs_line},],
+                // {
+                //     shape: 'trend_line',
+                //     // lock: true,
+                //     // disableSelection: true,
+                //     // disableSave: true,
+                //     // disableUndo: true,
+                //     zOrder: 'top',
+                //     overrides: {
+                //         'linestyle': linestyle,
+                //         'linewidth': 2,
+                //         'linecolor': color,
+                //     }
+                // }
+                // );
               }
             });
         });
@@ -2107,7 +2109,7 @@ export default {
                 {time: Date.parse(start_dt)/1000, price: end_price},
                     {
                     shape: 'text',
-                    lock: true,
+                    // lock: true, 锁定后，无法通过界面的按钮删除
                     disableSelection: true,
                     overrides: {
                         'color': color,
