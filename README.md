@@ -4,6 +4,7 @@
 参考文章：[正式开源！适用于缠论量化研究，基于TradingView本地SDK的可视化前后端代码](https://mp.weixin.qq.com/s/5NxteND3hS5qcH2Jkuy2eQ)
 
 【More缠量化研习】圈子：
+
 [运营『More缠量化研习』圈子，一起练习飞翔](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090861&idx=1&sn=58dc37b63bb7f809da2657dc4f36d091&chksm=f28252aec5f5dbb82598320572c1f056925bde1b5808e1d8c0575a3666740f7d956a4544e696&token=1199670747&lang=zh_CN#rd)
 
 ![圈子](pics/quanzi.png)
@@ -11,12 +12,17 @@
 摩尔缠论相关：
 
 [摩尔缠论，一个伟大的缠论分支体系(一)](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090801&idx=1&sn=08ede867ceb519f8a18e90970ce452ac&chksm=f28252f2c5f5dbe4e2c1e3f430d19e04e8434b62cd62d0abed69f92ec104acc85be9e4c220ee&token=1199670747&lang=zh_CN#rd)
+
 [摩尔缠论，一个伟大的缠论分支体系(二)](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090812&idx=1&sn=448214fc48c368d3b7190abb9b975536&chksm=f28252ffc5f5dbe9903406ec7157f7f7807dc5562359fd037438303486e7ad933ea8ea766879&token=1199670747&lang=zh_CN#rd)
+
 [摩尔缠论，一个伟大的缠论分支体系(三)](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090828&idx=1&sn=571a02aff3a8dec4b68522ade3f64aa2&chksm=f282528fc5f5db99ca6bb04a1ec559e5d23ebfc7d833e555a7f2f789047010cb1dabc47a1d67&token=1199670747&lang=zh_CN#rd)
+
 [摩尔缠论，一个伟大的缠论分支体系(四)](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090841&idx=1&sn=3e026f3fc9ea34e3354b3b2d6ed61124&chksm=f282529ac5f5db8cd861d692b971cb4a60d894c99fab908e2eeffd5e28087ebacfdd1d2b0378&token=1199670747&lang=zh_CN#rd)
 
 缠论思考与量化：
+
 [缠论版《神雕侠侣》主题曲《天下有情[钱]人》第一版](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090795&idx=1&sn=69db18dc36d47724d76c02f4491b9f82&chksm=f28252e8c5f5dbfe80b8f392300e785617d0e79a0aa79d567e1abd4ac8878113e94afc60135a&token=1199670747&lang=zh_CN#rd)
+
 [从丁元英的诗词中，悟缠论量化的历程](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090853&idx=1&sn=bfebe4e4e2c39e213fc3483cd060dca6&chksm=f28252a6c5f5dbb03237431544fd99c89aee5a1dadca76306a9e9ea34b4818973f1e2b2f1647&token=1199670747&lang=zh_CN#rd)
 
 
