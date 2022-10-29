@@ -26,7 +26,7 @@
 [从丁元英的诗词中，悟缠论量化的历程](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090853&idx=1&sn=bfebe4e4e2c39e213fc3483cd060dca6&chksm=f28252a6c5f5dbb03237431544fd99c89aee5a1dadca76306a9e9ea34b4818973f1e2b2f1647&token=1199670747&lang=zh_CN#rd)
 
 
-在线体验：http://162.14.82.169:8134/（已失效）
+在线体验：http://162.14.82.169:8134/
 
 ## 大盘效果图
 ![效果图](pics/sz000001.jpg)
