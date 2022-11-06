@@ -19,6 +19,8 @@
 
 [摩尔缠论，一个伟大的缠论分支体系(四)](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090841&idx=1&sn=3e026f3fc9ea34e3354b3b2d6ed61124&chksm=f282529ac5f5db8cd861d692b971cb4a60d894c99fab908e2eeffd5e28087ebacfdd1d2b0378&token=1199670747&lang=zh_CN#rd)
 
+[摩尔缠论，一个伟大的缠论分支体系(五)](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090876&idx=1&sn=4eb590372cded649b954c2e385413997&chksm=f28252bfc5f5dba984d7f9895e8ff150f78be61fe0dd9c4cafd918ff9b16ffd789dfaee62e39&token=1327530731&lang=zh_CN#rd)
+
 缠论思考与量化：
 
 [缠论版《神雕侠侣》主题曲《天下有情[钱]人》第一版](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090795&idx=1&sn=69db18dc36d47724d76c02f4491b9f82&chksm=f28252e8c5f5dbfe80b8f392300e785617d0e79a0aa79d567e1abd4ac8878113e94afc60135a&token=1199670747&lang=zh_CN#rd)
