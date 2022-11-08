@@ -3,6 +3,9 @@
 
 参考文章：[正式开源！适用于缠论量化研究，基于TradingView本地SDK的可视化前后端代码](https://mp.weixin.qq.com/s/5NxteND3hS5qcH2Jkuy2eQ)
 
+[作为交易者，TradingView你想知道的一些点](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090885&idx=1&sn=30eba518ae79d887e052499089d583e7&chksm=f2825246c5f5db50d174f692abb4e1dd3f5e4694b89ed181172f903387d79c01461036c89bd1&token=286592241&lang=zh_CN#rd)
+
+
 【More缠量化研习】圈子：
 
 [运营『More缠量化研习』圈子，一起练习飞翔](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090861&idx=1&sn=58dc37b63bb7f809da2657dc4f36d091&chksm=f28252aec5f5dbb82598320572c1f056925bde1b5808e1d8c0575a3666740f7d956a4544e696&token=1199670747&lang=zh_CN#rd)
