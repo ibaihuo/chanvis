@@ -7,7 +7,7 @@
 
 [运营『More缠量化研习』圈子，一起练习飞翔](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090861&idx=1&sn=58dc37b63bb7f809da2657dc4f36d091&chksm=f28252aec5f5dbb82598320572c1f056925bde1b5808e1d8c0575a3666740f7d956a4544e696&token=1199670747&lang=zh_CN#rd)
 
-![圈子](pics/quanzi.png)
+![圈子](pics/quanzi.jpg)
 
 摩尔缠论相关：
 
