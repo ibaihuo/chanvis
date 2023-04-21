@@ -15,23 +15,37 @@
 ## 摩尔缠论相关文章
 [本心缠论，一个更纯粹的缠论体系(1)-破量化的执念](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650091013&idx=1&sn=5e4ea7d22af9247ddc1ae93a2a0aac0d&chksm=f28251c6c5f5d8d059d139de7acf90f3085d3593b2375882a8aee31577b95bb4b87d7c109c39&token=1365295420&lang=zh_CN#rd)
 
+-------
+
 [摩尔缠论，一个伟大的缠论分支体系(13)-均线与缠论](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090989&idx=1&sn=2ee71bd881211ff9aecc9843581d45a6&chksm=f282522ec5f5db386986abb6178b355dcc89cf4a08f78d3f2db6554d7c2d00626089df408260&token=1365295420&lang=zh_CN#rd)
+
 [摩尔缠论，一个伟大的缠论分支体系(12)-本质中枢](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090980&idx=1&sn=87a38f3010d86eabcb91f22754df1b0b&chksm=f2825227c5f5db312c099d3fd6523c93df1ea93492b918513ac1fbe8c931b768806fdd842527&token=1365295420&lang=zh_CN#rd)
 [摩尔缠论，一个伟大的缠论分支体系(11)-本质线段](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090969&idx=1&sn=5793f84317fe40781e339ff1ada452b9&chksm=f282521ac5f5db0ca575f52f91ffa5a7b07151e97321b98cc58300990904288206d75673d7b8&token=1365295420&lang=zh_CN#rd)
+
 [摩尔缠论，一个伟大的缠论分支体系(十)-知识体系概览](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090960&idx=1&sn=a2381dff4083e5244f2aeb4bca392484&chksm=f2825213c5f5db05b7ca1d84ef194f2c9f9ecba71ed7b28406a5a75d1bdb0fd41941ff30d190&token=1365295420&lang=zh_CN#rd)
+
 [摩尔缠论，一个伟大的缠论分支体系(九)-周线升级独立](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090949&idx=1&sn=d91119a7222646d66d8135bccba429fe&chksm=f2825206c5f5db1038953c132549df049855e3c74178bfaef034470b558361d5cce8a70d06f5&token=1365295420&lang=zh_CN#rd)
+
 [摩尔缠论，一个伟大的缠论分支体系(八)](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090932&idx=1&sn=a11ab6186b78b4d93f8328eb8b8398de&chksm=f2825277c5f5db6121b7cd87bc674ae1241c2ddec1a4eb49f165b334ecd1c8dc4e52a70e82e0&token=1365295420&lang=zh_CN#rd)
+
 [摩尔缠论，一个伟大的缠论分支体系(七)](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090915&idx=1&sn=95ec8bd6a45c9c3a5213ba1c40d3bae1&chksm=f2825260c5f5db761ae67a98aa869f6805a906d9fe3565358ce5b37ae5d2f5e5c8d75e0af4b8&token=1365295420&lang=zh_CN#rd)
+
 [摩尔缠论，一个伟大的缠论分支体系(六)](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090894&idx=1&sn=793d59de7337468c408d64750169dad9&chksm=f282524dc5f5db5b5161d96e32f05a467904f2188ad05b2f2b805a1e0d651a76728af7b1d7f2&token=1365295420&lang=zh_CN#rd)
+
 [摩尔缠论，一个伟大的缠论分支体系(五)](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090876&idx=1&sn=4eb590372cded649b954c2e385413997&chksm=f28252bfc5f5dba984d7f9895e8ff150f78be61fe0dd9c4cafd918ff9b16ffd789dfaee62e39&token=1327530731&lang=zh_CN#rd)
+
 [摩尔缠论，一个伟大的缠论分支体系(四)](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090841&idx=1&sn=3e026f3fc9ea34e3354b3b2d6ed61124&chksm=f282529ac5f5db8cd861d692b971cb4a60d894c99fab908e2eeffd5e28087ebacfdd1d2b0378&token=1199670747&lang=zh_CN#rd)
+
 [摩尔缠论，一个伟大的缠论分支体系(三)](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090828&idx=1&sn=571a02aff3a8dec4b68522ade3f64aa2&chksm=f282528fc5f5db99ca6bb04a1ec559e5d23ebfc7d833e555a7f2f789047010cb1dabc47a1d67&token=1199670747&lang=zh_CN#rd)
+
 [摩尔缠论，一个伟大的缠论分支体系(二)](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090812&idx=1&sn=448214fc48c368d3b7190abb9b975536&chksm=f28252ffc5f5dbe9903406ec7157f7f7807dc5562359fd037438303486e7ad933ea8ea766879&token=1199670747&lang=zh_CN#rd)
+
 [摩尔缠论，一个伟大的缠论分支体系(一)](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090801&idx=1&sn=08ede867ceb519f8a18e90970ce452ac&chksm=f28252f2c5f5dbe4e2c1e3f430d19e04e8434b62cd62d0abed69f92ec104acc85be9e4c220ee&token=1199670747&lang=zh_CN#rd)
 
 ## 缠论思考与量化
 
 [缠论版《神雕侠侣》主题曲《天下有情[钱]人》第一版](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090795&idx=1&sn=69db18dc36d47724d76c02f4491b9f82&chksm=f28252e8c5f5dbfe80b8f392300e785617d0e79a0aa79d567e1abd4ac8878113e94afc60135a&token=1199670747&lang=zh_CN#rd)
+
 [从丁元英的诗词中，悟缠论量化的历程](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090853&idx=1&sn=bfebe4e4e2c39e213fc3483cd060dca6&chksm=f28252a6c5f5dbb03237431544fd99c89aee5a1dadca76306a9e9ea34b4818973f1e2b2f1647&token=1199670747&lang=zh_CN#rd)
 
 ## 大盘效果图
