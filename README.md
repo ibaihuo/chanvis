@@ -8,11 +8,13 @@
 
 ## 【More缠量化研习】圈子
 
-[圈子『More缠量化研习』，永久有效-V3](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650091053&idx=1&sn=169770fb0e976a418914cf63d3160028&chksm=f28251eec5f5d8f8a51569cc83edfbf6e8b55e0ce699590da3a17c90c7b8e01df6e4884c9f16&token=827136753&lang=zh_CN#rd)
+[圈子『More缠量化研习』，永久有效-V4](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650091065&idx=1&sn=fa09660b4b87336694e7cce2f88b6aa4&chksm=f28251fac5f5d8ecb63ab628fe2f263203e5e89dca28f9117e678136256e49204f6222244580&token=302693295&lang=zh_CN#rd)
 
 ![圈子](pics/quanzi.jpg)
 
 ## 摩尔缠论相关文章
+
+[本心缠论，一个更纯粹的缠论体系(4)-流派与残本](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650091062&idx=1&sn=00cc13b375dbe3df28c85abc4963dee9&chksm=f28251f5c5f5d8e3ed820bb140331c7d3eac3e3fcb7d354b75f89f03c085f760304e3f9a0f6c&token=302693295&lang=zh_CN#rd)
 
 [本心缠论，一个更纯粹的缠论体系(3)-那一个买点](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650091045&idx=1&sn=78beac5627d35ea89bab981cc469f6eb&chksm=f28251e6c5f5d8f091fac1e2ba1ece42fb612cd83c5e57ed029ee25921fbb52e01088e76e8a6&token=827136753&lang=zh_CN#rd)
 
