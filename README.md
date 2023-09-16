@@ -12,6 +12,13 @@
 
 ![圈子](pics/quanzi.jpg)
 
+## [ZaW系列]文章
+
+[[ZaW系列]-002-本地tv秒级K及买点](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650091144&idx=1&sn=553e94204ced2cd815b119ef65cf980e&chksm=f282514bc5f5d85d5ec5147827030f6b7c2384f9f62e5dc574cda77244b63ee5a4e3d10d6d2a&token=2128197253&lang=zh_CN#rd)
+
+[[ZaW系列]-001-小试期货](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650091132&idx=1&sn=96eb341a4821154acd5fee8ea59816e7&chksm=f28251bfc5f5d8a941fe91a6673f50178219a3decbb195f012827ee84dc660738cdf827639ab&token=2128197253&lang=zh_CN#rd)
+
+
 ## 摩尔缠论相关文章
 
 [本心缠论，一个更纯粹的缠论体系(4)-流派与残本](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650091062&idx=1&sn=00cc13b375dbe3df28c85abc4963dee9&chksm=f28251f5c5f5d8e3ed820bb140331c7d3eac3e3fcb7d354b75f89f03c085f760304e3f9a0f6c&token=302693295&lang=zh_CN#rd)
