@@ -6,11 +6,16 @@
 
 [作为交易者，TradingView你想知道的一些点](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090885&idx=1&sn=30eba518ae79d887e052499089d583e7&chksm=f2825246c5f5db50d174f692abb4e1dd3f5e4694b89ed181172f903387d79c01461036c89bd1&token=286592241&lang=zh_CN#rd)
 
-## 【自然之缠】圈子
+## 【More缠量化研习】圈子
+
+[圈子『More缠量化研习』，永久有效-V4](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650091065&idx=1&sn=fa09660b4b87336694e7cce2f88b6aa4&chksm=f28251fac5f5d8ecb63ab628fe2f263203e5e89dca28f9117e678136256e49204f6222244580&token=302693295&lang=zh_CN#rd)
 
 ![圈子](pics/quanzi.jpg)
 
 ## [ZaW系列]文章
+
+
+[​[ZaW系列]-003-市场的语言](https://mp.weixin.qq.com/s/X9hcZ2nfn2xTVHXpswHTnQ)
 
 [[ZaW系列]-002-本地tv秒级K及买点](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650091144&idx=1&sn=553e94204ced2cd815b119ef65cf980e&chksm=f282514bc5f5d85d5ec5147827030f6b7c2384f9f62e5dc574cda77244b63ee5a4e3d10d6d2a&token=2128197253&lang=zh_CN#rd)
 
@@ -28,7 +33,6 @@
 [本心缠论，一个更纯粹的缠论体系(1)-破量化的执念](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650091013&idx=1&sn=5e4ea7d22af9247ddc1ae93a2a0aac0d&chksm=f28251c6c5f5d8d059d139de7acf90f3085d3593b2375882a8aee31577b95bb4b87d7c109c39&token=1365295420&lang=zh_CN#rd)
 
 -------
-[摩尔缠论，一个伟大的缠论分支体系(14)-市场最大的坑](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650091154&idx=1&sn=c71e9b10ad20a96049d3153904b36d3b&chksm=f2825151c5f5d847011bae97eec2d6ffde6cd634472e867847728096dd238ff2ba8ac5863a01&token=1369228976&lang=zh_CN#rd)
 
 [摩尔缠论，一个伟大的缠论分支体系(13)-均线与缠论](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090989&idx=1&sn=2ee71bd881211ff9aecc9843581d45a6&chksm=f282522ec5f5db386986abb6178b355dcc89cf4a08f78d3f2db6554d7c2d00626089df408260&token=1365295420&lang=zh_CN#rd)
 
