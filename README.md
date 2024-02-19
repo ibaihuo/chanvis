@@ -8,8 +8,6 @@
 
 ## 【More缠量化研习】圈子
 
-[圈子『More缠量化研习』，永久有效-V4](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650091065&idx=1&sn=fa09660b4b87336694e7cce2f88b6aa4&chksm=f28251fac5f5d8ecb63ab628fe2f263203e5e89dca28f9117e678136256e49204f6222244580&token=302693295&lang=zh_CN#rd)
-
 ![圈子](pics/quanzi.jpg)
 
 ## [ZaW系列]文章
