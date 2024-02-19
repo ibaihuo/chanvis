@@ -32,6 +32,8 @@
 
 -------
 
+[摩尔缠论，一个伟大的缠论分支体系(14)-市场最大的坑](https://mp.weixin.qq.com/s/7yqO3MU3YJuz-0U_vkW1fA)
+
 [摩尔缠论，一个伟大的缠论分支体系(13)-均线与缠论](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090989&idx=1&sn=2ee71bd881211ff9aecc9843581d45a6&chksm=f282522ec5f5db386986abb6178b355dcc89cf4a08f78d3f2db6554d7c2d00626089df408260&token=1365295420&lang=zh_CN#rd)
 
 [摩尔缠论，一个伟大的缠论分支体系(12)-本质中枢](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090980&idx=1&sn=87a38f3010d86eabcb91f22754df1b0b&chksm=f2825227c5f5db312c099d3fd6523c93df1ea93492b918513ac1fbe8c931b768806fdd842527&token=1365295420&lang=zh_CN#rd)
