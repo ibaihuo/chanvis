@@ -6,6 +6,15 @@
 
 [作为交易者，TradingView你想知道的一些点](https://mp.weixin.qq.com/s?__biz=MzI2NzExMTA4NA==&mid=2650090885&idx=1&sn=30eba518ae79d887e052499089d583e7&chksm=f2825246c5f5db50d174f692abb4e1dd3f5e4694b89ed181172f903387d79c01461036c89bd1&token=286592241&lang=zh_CN#rd)
 
+## TradingView指标
+
+本代码库，是针对具有开发能力的用户。如果是普通用户，只是想要使用【摩尔缠论】的TV指标，请加群：
+https://t.me/+trsm24TgH1E0N2Q1
+
+指标的介绍与地址：https://cn.tradingview.com/script/KfbFUyW5/
+
+指标必须邀请使用，所有需要授权才行，请添加上面的telegram群！
+
 ## 【自然之缠】圈子
 
 ![圈子](pics/quanzi.jpg)
